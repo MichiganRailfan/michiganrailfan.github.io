@@ -9,6 +9,6 @@ plugins:
 
 header_pages:
   - index.md
-  - railroad-guides.md
-  - defect-detectors.md
-  - radio-frequencies.md
+  - ptc-and-itcmon.md
+  - software.md
+  - about-us.md
