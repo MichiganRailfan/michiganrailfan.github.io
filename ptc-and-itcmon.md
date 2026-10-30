@@ -7,7 +7,7 @@ title: PTC and ITCMon
 
 ## Table of Contents
 
-- [What is Positive Train Control?](#what-is-ptc)
+- [What is Positive Train Control?](#what-is-positive-train-control)
 - [Detector messages](#detector-messages)
 - [Radio frequencies](#radio-frequencies)
 
