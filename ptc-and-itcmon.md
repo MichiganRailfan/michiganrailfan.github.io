@@ -1,19 +1,17 @@
 ---
 layout: default
-title: Defect Detectors
+title: PTC and ITCMon
 ---
 
-# Defect Detectors
+# PTC and ITCMon
 
-A guide to railroad defect detectors and their radio messages.
+## Table of Contents
 
-## On this page
-
-- [How they work](#how-they-work)
+- [What is Positive Train Control?](#what-is-ptc)
 - [Detector messages](#detector-messages)
 - [Radio frequencies](#radio-frequencies)
 
-## How they work
+## What is Positive Train Control?
 
 Write your explanation here.
 
