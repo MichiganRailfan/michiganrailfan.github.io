@@ -1,1 +1,14 @@
+title: Michigan Railfan
+description: Railroad guides, resources, and information
 
+markdown: kramdown
+theme: null
+
+plugins:
+  - jekyll-toc
+
+header_pages:
+  - index.md
+  - railroad-guides.md
+  - defect-detectors.md
+  - radio-frequencies.md
