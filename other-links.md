@@ -4,5 +4,5 @@
 
 Resources:
 
-- 
+- PTCTalk Discord server (the link is in the Groups.IO group, invite only).
 - 
