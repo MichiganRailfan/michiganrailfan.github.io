@@ -9,6 +9,9 @@ plugins:
 
 header_pages:
   - index.md
+  - guides.md
+  - official-documents.md
   - ptc-and-itcmon.md
   - software.md
+  - other-links.md
   - about-us.md
