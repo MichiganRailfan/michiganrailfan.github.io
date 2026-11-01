@@ -8,7 +8,7 @@ title: Guides
 ## Table of Contents
 
 - [Using ITCMon](#using-itcmon)
-- [Mapping A Line](#mapping-a-line)
+- [Mapping a Line](#mapping-a-line)
 - [ITC Locomotive Tracker](#itc-locomotive-tracker)
 
 ## Using ITCMon
